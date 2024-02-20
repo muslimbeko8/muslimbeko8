@@ -1,4 +1,4 @@
-
+import os
 ls = []
 while 1 > 0:
     b = int(input("yozish 1\no'chirish 2\nchiqish 0\nSon kiriting: "))
